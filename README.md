@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Sue-Shudan-Deng
+- 👀 I’m interested in Software Engineering, Data Science, Data Analysis.
+- 🌱 I’m currently learning C++, Python.
+- 📫 How to reach me ...
+- GitHub: [@Sue-Shudan-Deng](https://github.com/Sue-Shudan-Deng)
+- LinkedIn: https://www.linkedin.com/in/shudan-deng-sue/
+- Email: d.shudan@wustl.edu
